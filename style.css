@@ -15,6 +15,7 @@
   right: 0;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay to ensure text readability */
+  /* background: url('/images/vector-mar-2021-50_generated.jpg') center center/cover no-repeat !important; */
 }
 
 #header_wrap .inner {

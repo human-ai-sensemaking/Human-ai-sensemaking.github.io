@@ -51,6 +51,7 @@ Topics of interest include but are not limited to:
 - NLP methods for augmenting LLMs with embodied cognition capabilities
 - Models for LLM processing of visual languages
 - Evaluations of human-AI teaming for sensemaking
+- ...
 
 
 ## Call For Participation
