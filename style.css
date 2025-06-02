@@ -1,4 +1,23 @@
 .pdfIcon {
-  align="middle";
-  
+  align: middle;
+}
+
+#header_wrap {
+  background: url('images/vector-mar-2021-50_generated.jpg') center center/cover no-repeat !important;
+  position: relative;
+}
+
+#header_wrap::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay to ensure text readability */
+}
+
+#header_wrap .inner {
+  position: relative;
+  z-index: 1;
 }
