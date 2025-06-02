@@ -1,6 +1,6 @@
 ## 2025 Workshop Summary
 
-**Date and Location:**  TBD, co-located with IEEE VL/HCC (October 6-10, 2025), Raleigh, North Carolina, United States
+**Date and Location:**  **TBD**, co-located with IEEE VL/HCC (October 6-10, 2025), Raleigh, North Carolina, United States
 
 User interfaces for Human-LLM interaction in information-intensive tasks such as sensemaking have predominantly been limited to the chatbot style of interaction. The linear nature of chat poses significant limitations on sensemaking activity that often requires nonlinear thinking, incremental formalization, use of diverse information sources, etc. 
 
