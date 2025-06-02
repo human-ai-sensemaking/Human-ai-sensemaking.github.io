@@ -1,12 +1,12 @@
 ## 2025 Workshop Summary
 
-**Date and Location:**  Held with IEEE VL/HCC (6-10 October 2025).
+**Date and Location:**  TBD, co-located with IEEE VL/HCC (October 6-10, 2025), Raleigh, North Carolina, United States
 
 User interfaces for Human-LLM interaction in information-intensive tasks such as sensemaking have predominantly been limited to the chatbot style of interaction. The linear nature of chat poses significant limitations on sensemaking activity that often requires nonlinear thinking, incremental formalization, use of diverse information sources, etc. 
 
 Human cognition in sensemaking tasks exploits a psychological phenomenon called embodied cognition, which externalizes thought processes onto interactive visual workspaces and canvases that enable complex iterative structuring of ideas.  These nonlinear structures often represent various forms of visual languages for sensemaking —- **space to think**.  
 
-While LLMs also exploit the notion of external memory in the form of prompt context or chain of thought, these are often limited to sequential text inputs.  Is there a possibility of marrying the analogous concepts of human embodied cognition and LLM context?  Can the visual languages of embodied cognition serve as a common ground between human cognition and LLM processing? Can LLMs have a form of embodied AI cognition that exploits visual languages?  As AI agents become increasingly autonomous, how can visual languages support incremental progression and reduce uncertainty in various sensemaking scenarios, from simple coordination to active collaboration to full teaming, while enabling trust between humans and AI?  
+While LLMs also exploit the notion of external memory in the form of prompt context or chain of thought, these are often limited to sequential text inputs.  Is there a possibility of marrying the analogous concepts of human embodied cognition and LLM context?  **Can the visual languages of embodied cognition serve as a common ground between human cognition and LLM processing?** **Can LLMs have a form of embodied AI cognition that exploits visual languages?**  **As AI agents become increasingly autonomous, how can visual languages support incremental progression and reduce uncertainty in various sensemaking scenarios, from simple coordination to active collaboration to full teaming, while enabling trust between humans and AI?**  
 
 This workshop seeks contributions that push these frontiers and bring together a multi-disciplinary group of researchers in HCI, AI, cognitive science, visual languages, and computer vision. The workshop will foster a community that will discuss and prepare a forward-looking research agenda for **embodied human-LLM interaction with visual languages**.
 
@@ -67,6 +67,7 @@ Topics of interest include but are not limited to:
 Two types of contributions are sought, each with separate deadlines and review criteria.
 
 **Research Papers:**  Manuscripts that contain results suitable for publication, which will be presented at the workshop.  Research paper submissions will be peer-reviewed by a minimum of one organizer and one knowledgeable external reviewer recruited by the organizers to ensure relevance, quality, and soundness of results.  A length of 4-8 pages is required. 
+
 Submission deadline:  Friday, July 11
 
 Acceptance notification:  Friday, August 1
