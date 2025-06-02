@@ -11,16 +11,6 @@ While LLMs also exploit the notion of external memory in the form of prompt cont
 This workshop seeks contributions that push these frontiers and bring together a multi-disciplinary group of researchers in HCI, AI, cognitive science, visual languages, and computer vision. The workshop will foster a community that will discuss and prepare a forward-looking research agenda for **embodied human-LLM interaction with visual languages**.
 
 
-## WORKSHOP SCHEDULE
-
-**Session:** 9:00am-12:30pm EDT
-- (9:00--9:10) **Welcome and Charge**
-- (9:10--10:10) **Paper presentations or demos**
-- (10:10--10:40) **Lightning talks/position statements**
-- (10:40--11:00) **Break**
-- (11:00--11:40) **Group brainstorming session**
-- (11:40--12:20) **Collaborative affinity diagramming**
-- (12:20--12:30) **Closing and action items**
 
 <!-- **Session 1:** 12:00-1:30pm CDT
 - 12:00pm:  **Introduction and Welcome**
@@ -119,6 +109,18 @@ Author notification:  August 31, 2021
 Camera-ready deadline:  September 10, 2021
 
 Speaker Schedule Available:  October 01, 2021 -->
+
+## WORKSHOP SCHEDULE
+
+**Session:** 9:00am-12:30pm EDT
+- (9:00--9:10) **Welcome and Charge**
+- (9:10--10:10) **Paper presentations or demos**
+- (10:10--10:40) **Lightning talks/position statements**
+- (10:40--11:00) **Break**
+- (11:00--11:40) **Group brainstorming session**
+- (11:40--12:20) **Collaborative affinity diagramming**
+- (12:20--12:30) **Closing and action items**
+
 
 
 ## ORGANIZERS
