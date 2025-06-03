@@ -126,7 +126,7 @@ Speaker Schedule Available:  October 01, 2021 -->
 
 ## ORGANIZERS
 
-Chris North, Virginia Tech  (Contact: human-ai-sensemaking@outlook.com)
+Chris North, Virginia Tech  (Contact: human-ai-sensemaking@googlegroups.com)
 
 Joel Chan, University of Maryland
 
@@ -140,29 +140,3 @@ John Wenskovitch, Pacific Northwest National Laboratory
 
 Siyi Zhu, University of Maryland
 
-
-<!-- John Wenskovitch, Pacific Northwest National Lab and Virginia Tech (john.wenskovitch@pnnl.gov)
-
-Michelle Dowling, Grand Valley State University (dowlinmi@gvsu.edu)
-
-Eli T. Brown, DePaul University
-
-Ab Mosca, Northeastern University
-
-Conny Walchshofer, Johannes Kepler University Linz
-
-Marc Streit, Johannes Kepler University Linz
-
-Kai Xu, Middlesex University -->
-
-<!-- ### Steering Committee
-
-Chris North, Virginia Tech
-
-Remco Chang, Tufts University
-
-Alex Endert, Georgia Tech
-
-David Rogers, Los Alamos National Lab
-
-Kris Cook, Pacific Northwest National Lab -->
