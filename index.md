@@ -51,13 +51,12 @@ Topics of interest include but are not limited to:
 - NLP methods for augmenting LLMs with embodied cognition capabilities
 - Models for LLM processing of visual languages
 - Evaluations of human-AI teaming for sensemaking
-- ...
 
 
 ## Call For Participation
 Two types of contributions are sought, each with separate deadlines and review criteria.
 
-**Research Papers:**  Manuscripts that contain results suitable for publication, which will be presented at the workshop.  Research paper submissions will be peer-reviewed by a minimum of one organizer and one knowledgeable external reviewer recruited by the organizers to ensure relevance, quality, and soundness of results.  A length of 4-8 pages is required. 
+**Research Papers:**  Manuscripts that contain results suitable for publication, which will be presented at the workshop.  Research paper submissions will be peer-reviewed by a minimum of one organizer and one knowledgeable external reviewer recruited by the organizers to ensure relevance, quality, and soundness of results. A length of 4-8 pages is required. The VL/HCC Conference plans to publish accepted workshop manuscripts in an accompanying volume published by IEEE.
 
 Submission deadline:  Friday, July 11
 
@@ -65,13 +64,15 @@ Acceptance notification:  Friday, August 1
 
 Camera-ready deadline following minor revisions:  Friday, August 8
 
-Submissions should be uploaded to EasyChair:  <link>
+Submissions should be uploaded to EasyChair:  **TBA**
 
 **Position Statements:**  Statements relating to a topic of interest that can be discussed at the workshop.  Position statements will be reviewed by the organizers to ensure relevance to the workshop.  A length of 1-4 pages is required. 
 
 Submission deadline:  Friday, August 22
 
 Acceptance notification:  Friday, August 29
+
+Submission method: **TBA**
 
 <!-- Submissions by email? -->
 
@@ -123,10 +124,9 @@ Speaker Schedule Available:  October 01, 2021 -->
 - (12:20--12:30) **Closing and action items**
 
 
-
 ## ORGANIZERS
 
-Chris North, Virginia Tech  (Contact: north@cs.vt.edu)
+Chris North, Virginia Tech  (Contact: human-ai-sensemaking@outlook.com)
 
 Joel Chan, University of Maryland
 
