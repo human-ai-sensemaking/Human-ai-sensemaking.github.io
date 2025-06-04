@@ -1,4 +1,6 @@
-## 2025 Workshop Summary
+Welcome to join us!
+
+## Workshop Summary
 
 **Date and Location:**  **TBD**, co-located with IEEE VL/HCC (October 6-10, 2025), Raleigh, North Carolina, United States
 
@@ -11,20 +13,6 @@ While LLMs also exploit the notion of external memory in the form of prompt cont
 This workshop seeks contributions that push these frontiers and bring together a multi-disciplinary group of researchers in HCI, AI, cognitive science, visual languages, and computer vision. The workshop will foster a community that will discuss and prepare a forward-looking research agenda for **embodied human-LLM interaction with visual languages**.
 
 
-
-<!-- **Session 1:** 12:00-1:30pm CDT
-- 12:00pm:  **Introduction and Welcome**
-- 12:05pm:  **Keynote 1:  Opportunities for Understanding Semantics of User Interactions** by Alex Lex
-- 12:35pm:  **Keynote 2:  User Interaction in Visual Analytics: Beyond Ephemeral Events** by Alex Endert
-- 1:05pm:  **Discussion** -- Future of the Field; Organizing Block 2 Topics
-
-**Session 2:** 2:00-3:30pm CDT
-- 2:00pm:  **Welcome Back**
-- 2:05pm:  **DocTable: Table-Oriented Interactive Machine Learning for Text Corpora**, by Yeshwanth Devabhaktuni, Sriram Yarlagadda, David J Scroggins, Fang Cao, Franklin J Buitron, Eli T Brown [(paper)](papers/DocTable.pdf)
-- 2:20pm:  **SHIM: Semantic Hierarchical Clustering with Interactive Machine Learning**, by Fang Cao, Yuanwei Tu, Eli T Brown [(paper)](papers/SHIM.pdf)
-- 2:35pm:  **FacetRules: Discovering and Describing Related Groups**, by Lebna V Thomas, Jiahao Deng, Eli T Brown [(paper)](papers/FacetRules.pdf)
-- 2:50pm:  **Discussion** -- Breakout Discussions
-- 3:20pm:  **Synthesis and Next Steps** -->
 
 <!-- 
 ## KEYNOTES
