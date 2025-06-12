@@ -3,7 +3,7 @@
 }
 
 #header_wrap {
-  background: url('images/vector-mar-2021-50_generated.jpg') center center/cover no-repeat !important;
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%) !important;
   position: relative;
 }
 
@@ -14,8 +14,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay to ensure text readability */
-  /* background: url('/images/vector-mar-2021-50_generated.jpg') center center/cover no-repeat !important; */
+  background: rgba(0, 0, 0, 0.2); /* Reduced overlay opacity since we have a darker gradient */
 }
 
 #header_wrap .inner {

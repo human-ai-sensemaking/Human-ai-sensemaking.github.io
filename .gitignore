@@ -1,0 +1,15 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler config and gems
+.bundle/
+vendor/
+Gemfile.lock
+
+# System files
+.DS_Store
+*~
+*.swp

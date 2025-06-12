@@ -19,14 +19,14 @@ This workshop seeks contributions that push these frontiers and bring together a
 
 **Keynote 1:  Opportunities for Understanding Semantics of User Interactions**
 
-**Abstract:**  Most logging approaches record system events at a fairly low level of abstraction. In this talk, I will argue that higher levels of abstraction are possible and desirable. I will highlight opportunities for increasing semantics that software developers have by carefully recording meaningful events. I will then show that we can leverage algorithmic methods to infer user-intents. Finally, I will show opportunities for eliciting key information from insights directly from users. Explicitly asking users about their intentions has benefits for users, as they can later retrace their steps more efficiently, and system developers, as they can learn more about usage patterns of their system and motivations of their users. There are diverse user input modalities that can provide information at different levels of abstraction and invasiveness.  These modalities range from multiple choice responses, to structured notes, to “think-aloud-like” approaches. In combination, these approaches are promising for building systems that have a better understanding of their users and hence can support users in their analytical tasks.
+**Abstract:**  Most logging approaches record system events at a fairly low level of abstraction. In this talk, I will argue that higher levels of abstraction are possible and desirable. I will highlight opportunities for increasing semantics that software developers have by carefully recording meaningful events. I will then show that we can leverage algorithmic methods to infer user-intents. Finally, I will show opportunities for eliciting key information from insights directly from users. Explicitly asking users about their intentions has benefits for users, as they can later retrace their steps more efficiently, and system developers, as they can learn more about usage patterns of their system and motivations of their users. There are diverse user input modalities that can provide information at different levels of abstraction and invasiveness.  These modalities range from multiple choice responses, to structured notes, to "think-aloud-like" approaches. In combination, these approaches are promising for building systems that have a better understanding of their users and hence can support users in their analytical tasks.
 
 **Biography:**  Alex is an Associate Professor of Computer Science at the Scientific Computing and Imaging Institute and the School of Computing at the University of Utah. I direct the Visualization Design Lab where we develop visualization methods and systems to help solve today's scientific problems.  Before joining the University of Utah, he was a lecturer and post-doctoral visualization researcher at Harvard University. He received his PhD, master's, and undergraduate degrees from Graz University of Technology. In 2011, he was a visiting researcher at Harvard Medical School.  He is the recipient of an NSF CAREER award and multiple best paper awards or best paper honorable mentions at IEEE VIS, ACM CHI, and other conferences. He also received a best dissertation award from his alma mater.  He co-founded Datavisyn (http://datavisyn.io), a startup company developing visual analytics solutions for the pharmaceutical industry, where he is currently spending his sabbatical. 
 
 
 **Keynote 2:  User Interaction in Visual Analytics: Beyond Ephemeral Events**
 
-**Abstract:**  User interaction in visual analytic tools is often treated as an event that causes a direct response in the system based on the operation performed. While effective for fostering exploration and analysis of people using these systems, user interactions contain signals about the people they were performed by. In this talk, I discuss opportunities for promoting user interactions to first order objects that can be used for a plethora of useful tasks by the system, including detecting cognitive biases that may exist, guiding and steering machine learning models, and more. I’ll provide examples of past and current research that explores this direction, and discuss potential future directions.
+**Abstract:**  User interaction in visual analytic tools is often treated as an event that causes a direct response in the system based on the operation performed. While effective for fostering exploration and analysis of people using these systems, user interactions contain signals about the people they were performed by. In this talk, I discuss opportunities for promoting user interactions to first order objects that can be used for a plethora of useful tasks by the system, including detecting cognitive biases that may exist, guiding and steering machine learning models, and more. I'll provide examples of past and current research that explores this direction, and discuss potential future directions.
 
 **Biography:**  Alex Endert is an Associate Professor in the School of Interactive Computing at the Georgia Institute of Technology. He directs the Visual Analytics Lab and conducts research to help people make sense of data and models through interactive visualizations and visual analytic systems. The lab’s research is also often tested in practice in domains such as intelligence analysis, cyber security, manufacturing safety, and others. Our lab’s work is funded by NSF, DARPA, DOD, DHS, NIJ, and generous industry partners. In 2018, He was awarded an NSF CAREER Award for work on Visual Analytics by Demonstration. He received his Ph.D. in Computer Science from Virginia Tech in 2012. In 2013, his work on Semantic Interaction was awarded the IEEE VGTC VPG Pioneers Group Doctoral Dissertation Award, and the Virginia Tech Computer Science Best Dissertation Award. -->
 
@@ -51,6 +51,8 @@ Submission deadline:  Friday, July 11
 Acceptance notification:  Friday, August 1
 
 Camera-ready deadline following minor revisions:  Friday, August 8
+
+Format: Current IEEE two-column conference paper format - "US letter" [template](https://www.ieee.org/conferences/publishing/templates)
 
 Submissions should be uploaded to EasyChair:  **TBA**
 
@@ -96,9 +98,7 @@ Submission deadline:  July 30, 2021
 
 Author notification:  August 31, 2021
 
-Camera-ready deadline:  September 10, 2021
-
-Speaker Schedule Available:  October 01, 2021 -->
+Camera-ready deadline:  September 10, 2021 -->
 
 ## WORKSHOP SCHEDULE
 
