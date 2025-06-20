@@ -120,11 +120,13 @@ Joel Chan, University of Maryland
 
 Rebecca Faust, Tulane University
 
-Xuxin Tang, Virginia Tech
-
 Xuan Wang, Virginia Tech
 
 John Wenskovitch, Pacific Northwest National Laboratory
 
-Siyi Zhu, University of Maryland
 
+## STUDENT ORGANIZERS
+
+Xuxin Tang, Virginia Tech
+
+Siyi Zhu, University of Maryland
