@@ -54,7 +54,8 @@ Camera-ready deadline following minor revisions:  Friday, August 8
 
 Format: Current IEEE two-column conference paper format - "US letter" [template](https://www.ieee.org/conferences/publishing/templates)
 
-Submissions should be uploaded to EasyChair:  **TBA**
+Submissions should be uploaded to [EasyChair](https://easychair.org/account2/signin?l=5904623355183015798):  
+Register or Log in -> author -> New Submission -> Select our workshop "Beyond Chat"
 
 **Position Statements:**  Statements relating to a topic of interest that can be discussed at the workshop.  Position statements will be reviewed by the organizers to ensure relevance to the workshop.  A length of 1-4 pages is required. 
 
