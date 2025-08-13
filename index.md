@@ -63,7 +63,8 @@ Submission deadline:  Friday, August 22
 
 Acceptance notification:  Friday, August 29
 
-Submission method: **TBA**
+Submission method: Submissions should be uploaded to [EasyChair](https://easychair.org/my/conference?conf=vlhcc2025):  
+Register or Log in -> author -> New Submission -> Select our workshop "Beyond Chat" (submitted as paper)
 
 <!-- Submissions by email? -->
 
