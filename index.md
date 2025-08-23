@@ -2,7 +2,7 @@ Welcome to join us!
 
 ## Workshop Summary
 
-**Date and Location:**  **TBD**, co-located with IEEE VL/HCC (October 6-10, 2025), Raleigh, North Carolina, United States
+**Date and Location:**  October 7, 2025, Raleigh, North Carolina, United States
 
 User interfaces for Human-LLM interaction in information-intensive tasks such as sensemaking have predominantly been limited to the chatbot style of interaction. The linear nature of chat poses significant limitations on sensemaking activity that often requires nonlinear thinking, incremental formalization, use of diverse information sources, etc. 
 
@@ -104,7 +104,7 @@ Camera-ready deadline:  September 10, 2021 -->
 
 ## WORKSHOP SCHEDULE
 
-**Session:** 9:00am-12:30pm EDT
+**Session:** 9:00am-12:30pm, October 7, 2025
 - (9:00--9:10) **Welcome and Charge**
 - (9:10--10:10) **Paper presentations or demos**
 - (10:10--10:40) **Lightning talks/position statements**
